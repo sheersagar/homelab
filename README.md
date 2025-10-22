@@ -1,4 +1,4 @@
-# homelab
+## Homelab
 This repo contains all of the configuration and documentation of my homelab.
 
 The purpose of my homelab is to learn and to have fun. Being a Cloud Native Engineer by choice, I work with kubernetes every day, and my homelab is the place where I can try out and learn new things. On the other hand, by self-hosting some applications
