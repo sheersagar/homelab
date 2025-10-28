@@ -26,6 +26,8 @@ I'm using a very basic computer machine and the specs are as follows.
 
 This is a very basic system and as requirement and the project grows, we will upgrade this system.
 
+![Cluster](./Troubleshooting/Images/cluster.png)
+
 #### Cautions for Hardware
 * Make sure that virtualization is enabled at CPU level.
 * Mother board should support upgrade of CPU and RAM as demand increases.
