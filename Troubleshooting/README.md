@@ -97,12 +97,12 @@ A structured guide to rebuild a cluster from scratch:
 ### 🏗️ Provisioning
 All cluster setup and infrastructure bring-up processes live here.  
 Example:  
-📄 [`k8s_cluster.md`](./Provisioning/cluster/k8s_cluster.md) — *Step-by-step setup of Kubernetes using kubeadm, containerd, and Calico CNI.*
+📄 [`k8s_cluster.md`](https://github.com/sheersagar/homelab/blob/main/Provisioning/cluster/k8s_cluster.md) — *Step-by-step setup of Kubernetes using kubeadm, containerd, and Calico CNI.*
 
 ### 🧰 Troubleshooting
 A continuously growing knowledge base of issues, fixes, and insights from real Homelab debugging sessions.  
 Example:  
-📄 [`01_CrashLoopBackOff.md`](./Troubleshooting/Cluster/01_CrashLoopBackOff.md) — *Analysis of Calico and kube-proxy crashloops with detailed cause mapping.*
+📄 [`01_CrashLoopBackOff.md`](https://github.com/sheersagar/homelab/blob/main/Troubleshooting/Cluster/01_CrashLoopBackOff.md) — *Analysis of Calico and kube-proxy crashloops with detailed cause mapping.*
 
 ---
 
@@ -121,7 +121,7 @@ Example:
 
 ## 📸 Visuals
 
-Below: A healthy cluster vs. CrashLoopBackOff scenario (documented in [Troubleshooting/Cluster/01_CrashLoopBackOff.md](./Troubleshooting/Cluster/01_CrashLoopBackOff.md))
+Below: A healthy cluster vs. CrashLoopBackOff scenario (documented in [Troubleshooting/Cluster/01_CrashLoopBackOff.md](https://github.com/sheersagar/homelab/blob/main/Troubleshooting/Cluster/01_CrashLoopBackOff.md))
 
 | Normal Cluster | CrashLoopBackOff |
 |----------------|------------------|
