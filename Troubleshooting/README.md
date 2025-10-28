@@ -64,7 +64,7 @@ Each commit reflects a part of that learning process — not just commands, but 
 ## 📘 Example: Kubernetes Setup Workflow
 
 A structured guide to rebuild a cluster from scratch:  
-👉 [Cluster Setup with Containerd + Calico](./kubernetes-setup.md)
+👉 [Cluster Setup with Containerd + Calico](https://github.com/sheersagar/homelab/blob/main/Provisioning/cluster/k8s_cluster.md)
 
 ---
 
